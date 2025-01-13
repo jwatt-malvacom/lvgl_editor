@@ -1,7 +1,7 @@
 <component>
     
     <api>
-		<prop name="button_label" type="string" default="Button"/>
+		<prop name="button_label" type="string" default="Knapp"/>
 	</api>
 
     <styles>
